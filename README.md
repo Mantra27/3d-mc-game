@@ -45,3 +45,7 @@ The game uses Three.js for 3D rendering and implements:
 - Block collision detection
 - Raycasting for block placement
 - Basic terrain generation
+
+
+
+![pre](public/pre.png)
